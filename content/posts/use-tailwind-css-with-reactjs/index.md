@@ -2,7 +2,7 @@
 title: How use Tailwind CSS with React JS
 author: Mansour Mahamat
 date: 2020-08-08
-hero: ./images/tailwind.png
+hero: ./images/tailwind2.png
 excerpt: Setup a project with Tailwind CSS with React JS.
 ---
 
@@ -119,7 +119,7 @@ export default App;
 - Run ```npm start``` in terminal, the project will start in the browser and build our css in ```styles.css```.
 <div className="Image__Small">
   <img
-    src="./images/create.jpg"
+    src="./images/create2.jpg"
     title="Logo Title Text 1"
     alt="Alt text"
   />
@@ -150,7 +150,7 @@ In the browser we should see :
 
 <div className="Image__Small">
   <img
-    src="./images/firstbutton.png"
+    src="./images/firstbutton2.png"
     alt="Button"
   />
 </div>
@@ -195,7 +195,7 @@ export default App;
 In your browser you will see : 
 <div className="Image__Small">
   <img
-    src="./images/secondbutton.png"
+    src="./images/secondbutton2.png"
     alt="Tailwind button"
   />
 </div>

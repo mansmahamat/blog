@@ -3,16 +3,13 @@ module.exports = {
     title: `Be Water by Mansour Mahamat`,
     name: `Mansour Mahamat`,
     siteUrl: `https://novela.narative.co`,
-    description: ` I am currently in web developer school in Montpellier, I created this little blog to store my discoveries. `,
+    description: ` I currently in training at the Wild Code School and in work-study program at Web ^ ID to prepare a professional title "Application Developer" (equivalent to Bac + 4). `,
     hero: {
       heading: `Mansour Mahamat's blog 🚀🌍😉`,
+      subheading: `mans`,
       maxWidth: 652,
     },
     social: [
-      {
-        name: `twitter`,
-        url: `https://twitter.com/Mans____M`,
-      },
       {
         name: `github`,
         url: `https://github.com/mansmahamat?tab=repositories`,
@@ -22,8 +19,8 @@ module.exports = {
         url: `https://www.linkedin.com/in/mansour-mahamat-salle-138b73138/`,
       },
       {
-        name: `portfolio`,
-        url: `http://mansour-mahamat.fr/`,
+        name: `www`,
+        url: `https://mansour-mahamat.netlify.app/`,
       },
     ],
   },

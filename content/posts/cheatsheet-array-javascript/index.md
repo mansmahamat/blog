@@ -2,7 +2,7 @@
 title: Cheatsheet Array Javascript
 author: Mansour Mahamat
 date: 2020-08-07
-hero: ./images/array.jpeg
+hero: ./images/array2.jpeg
 excerpt: The list of array methods I use most often in JavaScript.
 ---
 
